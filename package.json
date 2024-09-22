@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.22.11",
+    "prettier": "^3.3.3"
+  }
+}
